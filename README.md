@@ -10,7 +10,7 @@
 A modern web application that generates random user profiles with comprehensive personal information.
 
 <p align="center">
-  <img src="https://meiguodizhi.vercel.app/website.png" alt="Random User Profile Generator" width="160" />
+  <img src="https://meiguodizhi.vercel.app/website.png" alt="Random User Profile Generator" width="720" />
 </p>
 
 [Demo](https://meiguodizhi.vercel.app) • [Report Bug](https://github.com/dielect/random-user-info/issues) • [Request Feature](https://github.com/dielect/random-user-info/issues)
