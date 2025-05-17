@@ -30,9 +30,16 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
+    site: 'https://meiguodizhi.vercel.app',
     title: 'Random User Profile Generator | Fake Identity Data',
     description: 'Generate fake user identities with comprehensive personal, contact, financial, and professional information for testing and development purposes.',
-    images: ['https://meiguodizhi.vercel.app/website.png'],
+    images: [
+      {
+        url: 'https://meiguodizhi.vercel.app/website.png',
+        width: 1200,
+        height: 675,
+      }
+    ],
   },
 }
 
