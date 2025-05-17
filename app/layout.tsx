@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     siteName: 'Random User Profile Generator',
     images: [
       {
-        url: '/website.jpg',
+        url: '/website.png',
         width: 1200,
         height: 630,
         alt: 'Random User Profile Generator',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Random User Profile Generator | Fake Identity Data',
     description: 'Generate fake user identities with comprehensive personal, contact, financial, and professional information for testing and development purposes.',
-    images: ['/website.jpg'],
+    images: ['/website.png'],
   },
 }
 
